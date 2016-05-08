@@ -4,6 +4,7 @@ RE 2 DFA CONVERSION
 TE-IT ASSIGNMENT
 */
 #include<stdio.h>
+#include<bits/stdc++.h>
 #include<string.h>
 #include<malloc.h>
 struct tnode
